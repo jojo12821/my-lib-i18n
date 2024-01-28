@@ -10,6 +10,11 @@
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
     "skipLibCheck": true,
+    "paths": {
+      "my-lib-i18n": [
+        "./dist/my-lib-i18n"
+      ]
+    },
     "esModuleInterop": true,
     "sourceMap": true,
     "declaration": false,
